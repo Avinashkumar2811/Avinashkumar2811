@@ -7,7 +7,7 @@ Hello there! 👋 I'm Avinash Kumar, a passionate Full Stack Web Developer based
 - :seedling: I have a strong foundation in Python programming language and Data Structures & Algorithms (DSA).
 - :computer: I'm proficient in HTML and CSS for building engaging and responsive user interfaces.
 - :brain: I've solved more than 100+ coding problems on LeetCode, honing my problem-solving skills.
-- - **GitHub Username:** [avinashkumar2811](https://github.com/avinashkumar2811)
+- :telescope:**GitHub Username:** [avinashkumar2811](https://github.com/avinashkumar2811)
 - :e-mail: You can reach out to me at [ak8743653@gmail.com](mailto:ak8743653@gmail.com) for any collaboration or inquiry.
 
 
