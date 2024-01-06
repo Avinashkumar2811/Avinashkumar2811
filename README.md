@@ -27,9 +27,11 @@ I thrive on coding and relish working with both front-end and back-end technolog
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkumar2811&layout=compact&theme=radical)
 
-## Projects
-
+## :books: Featured Projects
 I'm on a perpetual journey of skill enhancement and community contribution. Explore some of my noteworthy projects on my GitHub repositories.
+- [Project 1](#) - Brief description and link to the project.
+- [Project 2](#) - Brief description and link to the project.
+
 
 ## Contact
 
