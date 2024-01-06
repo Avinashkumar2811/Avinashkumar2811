@@ -1,16 +1,33 @@
-### Hi there 👋
+# Avinash Kumar - GitHub Profile
 
-<!--
-**Avinashkumar2811/Avinashkumar2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Avinash Kumar, an aspiring Full Stack Web Developer based in Delhi, India. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Avinash Kumar
+- **GitHub Username:** [avinashkumar2811](https://github.com/avinashkumar2811)
+- **Email:** ak8743653@gmail.com
+
+## Skills
+
+I have a passion for coding and enjoy working on both front-end and back-end technologies. Here are some of my skills:
+
+- **Programming Language:** Python
+- **Web Development:** HTML, CSS
+- **Problem Solving:** Have solved around 200+ Data Structure and Algorithm problems
+
+## Projects
+
+I'm constantly working on projects to improve my skills and contribute to the community. Check out some of my notable projects on my GitHub repositories.
+
+## Contact
+
+Feel free to reach out to me via email at ak8743653@gmail.com for any collaboration or if you have any questions.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/avinash2811/)
+
+
+Thanks for stopping by! 😊
+
