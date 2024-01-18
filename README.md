@@ -30,7 +30,7 @@ I thrive on coding and relish working with both front-end and back-end technolog
 ## :books: Featured Projects
 I'm on a perpetual journey of skill enhancement and community contribution. Explore some of my noteworthy projects on my GitHub repositories.
 - [Project 1](#) -(https://github.com/Avinashkumar2811/Terminal-Based-Maze-solver)
-- [Project 2](#) - Brief description and link to the project.
+- [Project 2](#) - (https://github.com/Avinashkumar2811/Typing-Master-in-Terminal-)
 
 
 ## Contact
