@@ -1,4 +1,4 @@
-# Avinash Kumar - GitHub Profile
+# Avinash Kumar 
 
 Hello there! 👋 I'm Avinash Kumar, an aspiring passionate Full Stack Web Developer based in Delhi, India. Welcome to my GitHub universe! 🚀
 
