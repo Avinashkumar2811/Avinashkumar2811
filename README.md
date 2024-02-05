@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://avinash444.netlify.app/](https://avinash444.netlify.app/)
 
-- 💬 Ask me about **DSA,Python,html,CSS**
+- 💬 Ask me about **HTML,CSS,JAVASCIPT,Python**
 
 - 📫 How to reach me **ak8743653@gmail.com**
 
