@@ -1,44 +1,34 @@
-# Avinash Kumar 
+<h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
+<h3 align="center">An aspiring full stack web developer from New Delhi,India</h3>
 
-Hello there! 👋 I'm Avinash Kumar, an aspiring and a passionate Full Stack Web Developer learning from Masai school, I used to live in Delhi, India. Welcome to my GitHub universe! 🚀
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1CvSpAyOow7DbhzvPeyBP_&ust=1707221343135000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD4gKOVlIQDFQAAAAAdAAAAABAE">
 
-## :rocket: About Me
-- :telescope: I'm currently exploring the world of web development and working on enhancing my skills.
-- :seedling: I have a strong foundation in Python programming language and Data Structures & Algorithms (DSA).
-- :computer: I'm proficient in HTML and CSS for building engaging and responsive user interfaces.
-- :brain: I've solved more than 200+ coding problems on various platforms, honing my problem-solving skills.
-- :telescope:**GitHub Username:** [avinashkumar2811](https://github.com/avinashkumar2811)
-- :e-mail: You can reach out to me at [ak8743653@gmail.com](mailto:ak8743653@gmail.com) for any collaboration or inquiry.
+- 🔭 I’m currently working on [my Portfolio](https://avinash444.netlify.app/)
 
+- 🌱 I’m currently learning **Full stack web development**
 
-## Skills
+- 👨‍💻 All of my projects are available at [https://avinash444.netlify.app/](https://avinash444.netlify.app/)
 
-I thrive on coding and relish working with both front-end and back-end technologies. Here's a glimpse of my skills:
+- 💬 Ask me about **DSA,Python,html,CSS**
 
-- **Programming Language:** Python 🐍
-- **Web Development:** HTML, CSS 🌐
-- **Problem Solving:** Solved over 200 Data Structure and Algorithm problems 💡
+- 📫 How to reach me **ak8743653@gmail.com**
 
-## GitHub Stats
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oh1oho5SlEPtHffHxVV_ZIrCMQ6MNF1g/view?usp=sharing](https://drive.google.com/file/d/1oh1oho5SlEPtHffHxVV_ZIrCMQ6MNF1g/view?usp=sharing)
 
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashkumar2811&show_icons=true&theme=radical)
+- ⚡ Fun fact **I am Tech Lover**
 
-## Programming Language Profile
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/avinash2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash2811" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ak8743653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ak8743653" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leetavinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetavinash" height="30" width="40" /></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkumar2811&layout=compact&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## :books: Featured Projects
-I'm on a perpetual journey of skill enhancement and community contribution. Explore some of my noteworthy projects on my GitHub repositories.
-- [Project 1](#) - :computer:(https://github.com/Avinashkumar2811/Terminal-Based-Maze-solver)
-- [Project 2](#) - :computer:(https://github.com/Avinashkumar2811/Typing-Master-in-Terminal-)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashkumar2811&show_icons=true&locale=en&layout=compact" alt="avinashkumar2811" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashkumar2811&show_icons=true&locale=en" alt="avinashkumar2811" /></p>
 
-## :telescope: Contact
-
-Feel free to reach out to me via email at ak8743653@gmail.com for collaboration or if you have any questions.
-
-## :rocket: Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/avinash2811/)
-
-Thanks for dropping by! 😊 Let's code something amazing together! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashkumar2811&" alt="avinashkumar2811" /></p>
