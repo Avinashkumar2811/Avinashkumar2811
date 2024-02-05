@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oh1oho5SlEPtHffHxVV_ZIrCMQ6MNF1g/view?usp=sharing](https://drive.google.com/file/d/1oh1oho5SlEPtHffHxVV_ZIrCMQ6MNF1g/view?usp=sharing)
 
-- ⚡ Fun fact **I am Tech Lover**
+- ⚡ Fun fact, **I am Funny Tech Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
