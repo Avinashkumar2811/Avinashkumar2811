@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">An aspiring full stack web developer from New Delhi,India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Avinashkumar2811/Avinashkumar2811/assets/130353196/9370a107-873c-4b4c-998e-1d6056e6de35)
->
+
 
 - 🔭 I’m currently working on [my Portfolio](https://avinash444.netlify.app/)
 
