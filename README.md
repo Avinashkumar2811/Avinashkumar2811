@@ -1,6 +1,6 @@
 # Avinash Kumar 
 
-Hello there! 👋 I'm Avinash Kumar, an aspiring and a passionate Full Stack Web Developer learning from Masai school,I used to live in Delhi, India. Welcome to my GitHub universe! 🚀
+Hello there! 👋 I'm Avinash Kumar, an aspiring and a passionate Full Stack Web Developer learning from Masai school, I used to live in Delhi, India. Welcome to my GitHub universe! 🚀
 
 ## :rocket: About Me
 - :telescope: I'm currently exploring the world of web development and working on enhancing my skills.
