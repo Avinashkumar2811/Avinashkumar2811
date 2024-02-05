@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">An aspiring full stack web developer from New Delhi,India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1CvSpAyOow7DbhzvPeyBP_&ust=1707221343135000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD4gKOVlIQDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1CvSpAyOow7DbhzvPeyBP_&ust=1707221343135000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD4gKOVlIQDFQAAAAAdAAAAABAE](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)">
 
 - 🔭 I’m currently working on [my Portfolio](https://avinash444.netlify.app/)
 
