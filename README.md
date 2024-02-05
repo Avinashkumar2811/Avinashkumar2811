@@ -33,11 +33,11 @@ I'm on a perpetual journey of skill enhancement and community contribution. Expl
 - [Project 2](#) - :computer:(https://github.com/Avinashkumar2811/Typing-Master-in-Terminal-)
 
 
-## Contact
+## :telescope: Contact
 
 Feel free to reach out to me via email at ak8743653@gmail.com for collaboration or if you have any questions.
 
-## Connect with Me
+## :rocket: Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/avinash2811/)
 
